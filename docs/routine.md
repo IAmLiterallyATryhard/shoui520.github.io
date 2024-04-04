@@ -1,6 +1,6 @@
 # 30 Day Japanese (UsagiSpoon)  
 
-This is a guide/routine to help people learn Japanese from scratch with the immersion method. This guide was made to be followed in order, most of the decisions have already been made for you. The routine is split into days, and each day has tasks that you need to do.
+This is a guide/routine to help people learn Japanese from scratch with the immersion method, especially for those overwhelmed with the amount of resources information. This guide was made to be followed in order; most of the decisions have already been made for you. The routine is split into days, and each day has tasks that you need to do.
 
 What you should expect to know at the end of the 30 days:
 
@@ -21,21 +21,25 @@ What I expect from you:
 ### Stage: Starting kana stage  
 The absolute first thing you need to do when you learn Japanese is to learn the *kana*. *Kana* is short for *hiragana* and *katakana*.  
 
-Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) up until the Katakana section, just before the Kanji section. It's a quite hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
+Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) up until the *katakana* section, just before the *kanji* section. It's a quite hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
 
 When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png). It's important you learn how to write *kana*, as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.
 
-INSERT IMAGE OF THE KANA CHART
+<figure>
+  <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
+  <figcaption>
+      Full chart of singular kana<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
+<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
+  </figcaption>
+</figure>
 
-Then, watch the following video by JapanesePod.
-
-EMBED https://www.youtube.com/watch?v=_wZHqOghvSs)
+Then, watch [the following video](https://www.youtube.com/watch?v=_wZHqOghvSs) by JapanesePod.
 
 This is probably be the only JapanesePod video you should watch though, just sayin'.
 
 Now, click [here](https://gohoneko.neocities.org/learn/kana.html) to go to a *kana* website.  
 
-INSERT SCREENSHOT OF THE WEBSITE
+![learning_kana](img/learning_kana.gif) <!--formatting-->
 
 Click "show/hide options". Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
 
@@ -43,13 +47,11 @@ Type in the correct *romaji* in the text box (*romaji* are the latin characters 
 
 Do this for 10 minutes. You can use this timer [here](https://www.online-stopwatch.com/timer/10minutes/).
 
-SCREENSHOT OF THE TIMER
-
 ## Day 2  
 
 ### Stage: Creating your own Japan at home  
 
-Practice on [that website](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer](https://www.online-stopwatch.com/timer/10minutes/). Don't forget that all *kana* must be enabled.  
+Practise on [that website](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer](https://www.online-stopwatch.com/timer/10minutes/). Don't forget that all *kana* must be enabled.  
 
 Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you, and you'll need to make consuming it a habit. Slice of life anime is a good place to start. There are many, many anime that have simple Japanese. Here are some suggestions (but you can use anything you want):
 
@@ -116,13 +118,11 @@ Now here's where you'll start grammar. You don't need to do any drills, exercise
 
 The grammar guide I recommend is [Cure Dolly's Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).
 
-EMBED FIRST VIDEO FROM PLAYLIST https://www.youtube.com/watch?v=pSvH9vH60Ig
-
 If you prefer reading, here's the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
 
 All I want you to do is **watch the videos** and **take notes** (Google Keep, a tool for taking notes, can be found [here](https://keep.google.com/)).
 
-**Note: I recommend turning on subtitles for Cure Dolly's videos.**    
+**Note: I recommend turning on subtitles for Cure Dolly's videos.**    =
 
 ***Watch 3 videos a day!*** That's a good number, you'll be near the end of her guide after 30 days at this pace. And again, ***take notes!***
 
@@ -183,7 +183,7 @@ Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (g
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
-Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**. In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*". And change the **Learn ahead limit** to `900`. Then click on Close.
+Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**. In this window, click on the **Review** tab and change the **Learn ahead limit** to `900`. Then click on Close.
 
 SCREENSHOT OF CORRECT SETTINGS
 
