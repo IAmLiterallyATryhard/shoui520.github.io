@@ -173,9 +173,7 @@ Practice your *kana* on [that website](https://gohoneko.neocities.org/learn/kana
 
 After that, do your daily grammar study: **3 Cure Dolly videos**!   
 
-Next, we'll set up Anki. Watch the following video:
-
-EMBED https://www.youtube.com/watch?v=UDUITtA1jJI
+Next, we'll set up Anki. Watch [the following video](https://www.youtube.com/watch?v=UDUITtA1jJI):
 
 Now let's download Anki. You can download Anki in the official website [here](https://apps.ankiweb.net/), just click on the Download button. It should scroll the page down to the downloads section. Click on the first option.
 
@@ -185,11 +183,9 @@ When you first open Anki, the first thing you'll see is the "interface language 
 
 Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**. In this window, click on the **Review** tab and change the **Learn ahead limit** to `900`. Then click on Close.
 
-SCREENSHOT OF CORRECT SETTINGS
+![Anki_Settings_Preferences](img/AnkiSettingsPreferenceWindow.png) <!--formatting!-->
 
 In Anki, there are 3 buttons on the bottom of the window. The button **Import File** is how you'll be importing your downloaded deck. Once clicked, it should open the file picker window. Choose your downloaded deck.  
-
-SCREENSHOT HERE
 
 When it finishes importing it should show you a box with bunch of text. Just press OK.  
 
@@ -236,7 +232,7 @@ The learning pile means Anki will show you the card multiple times so you can re
 **My card learning method**  
 
 Step 1: Look at the card.  
-Step 2: Recognize whether it is a new card or not.  
+Step 2: Recognise whether it is a new card or not.  
 Step 3: Reveal the back (Show answer) after realizing it is a new card.  
 Step 4: Read the reading.  
 Step 5: Read the meaning.  
@@ -251,7 +247,7 @@ Step 13: I grade myself depending on if the meaning *and* reading I thought it w
 Step 14: I usually use the Good button if I got it correct. Again if it wasn't correct.  
 
 
-After you have successfully learned 20 cards, you can consider your Anki done for the day. Expect to see some cards in the green (Review) pile tomorrow. You'll also have a fresh batch of 20 new cards!  
+After you have successfully learned 20 cards, you can consider your Anki done for the day. Expect to see some cards in the green (review) pile tomorrow. You'll also have a fresh batch of 20 new cards!  
 
 Please make sure you do Anki every day!   
 
